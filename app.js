@@ -1,1 +1,1 @@
-sample app
+console.log('hello');
